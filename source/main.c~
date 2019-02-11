@@ -1,0 +1,7 @@
+#include <stdio.h>
+int globalvar = 20;
+
+int main(){
+    printf("Hello  world");
+    return 0;
+}
